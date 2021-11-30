@@ -1,0 +1,13 @@
+[en]
+  title = "Outme Blog"
+  languageName = "English"
+  weight = 1
+  languagedir = "ltr"
+  contentdir = "content/en"
+
+[fr]
+  title = "Blog Outme"
+  languageName = "Français"
+  weight = 2
+  languagedir = "ltr"
+  contentdir = "content/fr"

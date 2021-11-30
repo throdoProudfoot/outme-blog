@@ -1,0 +1,28 @@
+[[main]]
+  identifier = "about"
+  name = "A propos"
+  url = "about"
+  weight = 1
+
+[[main]]
+  identifier = "archive"
+  name = "Archives"
+  url = "archive"
+  weight = 2
+
+[[main]]
+  identifier = "gallery"
+  name = "Dessins"
+  url = "gallery"
+  weight = 3
+    
+[[main]]
+  parent = "gallery"
+  name = "Photos"
+  url = "gallery/mine"
+
+[[main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "posts"
+  weight = 4
