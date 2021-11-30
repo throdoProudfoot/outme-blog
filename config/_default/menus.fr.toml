@@ -1,28 +1,29 @@
 [[main]]
-  identifier = "about"
-  name = "A propos"
-  url = "about"
+  identifier = "the-one-ring"
+  name = "L'Anneau Unique"
+  url = "the-one-ring"
   weight = 1
 
+[[main]]
+  identifier = "tor2e"
+  name = "Système Tor2e"
+  url = "tor2e-system"
+  weight = 2
+
+[[main]]
+  identifier = "foundryvtt"
+  name = "Foundry VTT"
+  url = "foundryvtt"
+  weight = 3
+
+[[main]]
+  identifier = "resources"
+  name = "Ressources"
+  url = "resources"
+  weight = 4
+  
 [[main]]
   identifier = "archive"
   name = "Archives"
   url = "archive"
-  weight = 2
-
-[[main]]
-  identifier = "gallery"
-  name = "Dessins"
-  url = "gallery"
-  weight = 3
-    
-[[main]]
-  parent = "gallery"
-  name = "Photos"
-  url = "gallery/mine"
-
-[[main]]
-  identifier = "posts"
-  name = "Posts"
-  url = "posts"
-  weight = 4
+  weight = 5
