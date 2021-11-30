@@ -29,6 +29,6 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          deploy_key: ${{ secrets.PRIVATE_KEY }}
           external_repository: throdoProudfoot/throdoProudfoot.github.io
           publish_dir: ./public
