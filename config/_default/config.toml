@@ -1,8 +1,10 @@
-baseURL = "https://outme.hervedarritchon.fr"
-title = "Outme Blog"
-theme = "zzo"
-
+baseURL = "http://outme.hervedarritchon.fr"
+languageCode = 'en-us'
 defaultContentLanguage = "en"
+title = "Once Upon a Time in Middle-Earth"
+theme = "zzo"
+enableRobotsTXT = true
+
 defaultContentLanguageInSubdir = true
 hasCJKLanguage = true
 
@@ -18,21 +20,77 @@ rssLimit = 100
 enableGitInfo = false
 googleAnalytics = ""
 
+[taxonomies]
+tag = "tags"
+category = 'categories'
+series = 'series'
+tutorials = 'tutorials'
+
+[permalinks]
+post = "/:filename/"
+
+[imaging]
+quality = 99
+
+[params]
+homeMetaContent = "A blog about The One Ring TTRPG and Foundry VTT."
+dateFormat = "2 Jan 2006"
+navTitleLink = "/"
+
+[[menu.nav]]
+name = "Blog"
+url = "/"
+weight = 1
+
+[[menu.nav]]
+name = "Tags"
+url = "/tags/"
+weight = 2
+
+[[menu.nav]]
+name = "About"
+url = "/about/"
+weight = 3
+
+[[menu.nav]]
+name = "RSS"
+url = "/index.xml"
+weight = 4
+
 [markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      hardWraps = true
-      unsafe = true
-      xHTML = true
+defaultMarkdownHandler = "goldmark"
+
+[markup.goldmark.extensions]
+definitionList = true
+footnote = true
+linkify = true
+strikethrough = true
+table = true
+taskList = true
+typographer = true
+
+[markup.goldmark.parser]
+attribute = true
+autoHeadingID = true
+
+[markup.goldmark.renderer]
+hardWraps = false
+unsafe = true
+xHTML = false
+
   [markup.highlight]
-    codeFences = true
-    lineNos = true
-    lineNumbersInTable = true
-    noClasses = false
+  codeFences = true
+  hl_Lines = ""
+  lineNoStart = 1
+  lineNos = false
+  lineNumbersInTable = true
+  noClasses = true
+  style = "monokai"
+  tabWidth = 4
+
   [markup.tableOfContents]
-    endLevel = 4
-    ordered = false
-    startLevel = 2
+  endLevel = 6
+  startLevel = 2
 
 [outputs]
   home = ["HTML", "RSS", "SearchIndex"]
@@ -46,8 +104,3 @@ googleAnalytics = ""
     baseName = "index"
     isPlainText = true
     notAlternative = true
-
-[taxonomies]
-  category = "categories"
-  tag = "tags"
-  series = "series"
