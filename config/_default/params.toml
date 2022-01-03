@@ -118,10 +118,10 @@ commento = false
   dataLimit = 5
 
 [gitment]          # Gitment is a comment system based on GitHub issues. see https://github.com/imsun/gitment
-  owner = "throdoProudfoot"              # Your GitHub ID
-  repo = "outme-bog-comments"               # The repo to store comments
-  clientId = "${{ secrets.GITMENT_CLIENT_ID }}"           # Your client ID
-  clientSecret = "${{ secrets.GITMENT_SECRET }}"       # Your client secret
+  owner = ""              # Your GitHub ID
+  repo = ""               # The repo to store comments
+  clientId = ""           # Your client ID
+  clientSecret = ""       # Your client secret
 
 [utterances]       # https://utteranc.es/
   owner = ""              # Your GitHub ID
@@ -130,8 +130,8 @@ commento = false
 [gitalk]           # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk
   owner = "throdoProudfoot"              # Your GitHub ID
   repo = "outme-bog-comments"               # The repo to store comments
-  clientId = "${ secrets.GITMENT_CLIENT_ID }" # ID
-  clientSecret = "${ secrets.GITMENT_SECRET }"       # Your client secret
+  clientId = "${{ secrets.GITMENT_CLIENT_ID }}" # ID
+  clientSecret = "${{ secrets.GITMENT_SECRET }}"       # Your client secret
 
 # Valine.
 # You can get your appid and appkey from https://leancloud.cn
