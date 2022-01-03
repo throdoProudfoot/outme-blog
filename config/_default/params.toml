@@ -130,8 +130,8 @@ commento = false
 [gitalk]           # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk
   owner = "throdoProudfoot"              # Your GitHub ID
   repo = "outme-bog-comments"               # The repo to store comments
-  clientId = "${{ secrets.GITMENT_CLIENT_ID }}" # ID
-  clientSecret = "${{ secrets.GITMENT_SECRET }}"       # Your client secret
+  clientId = "${ secrets.GITMENT_CLIENT_ID }" # ID
+  clientSecret = "${ secrets.GITMENT_SECRET }"       # Your client secret
 
 # Valine.
 # You can get your appid and appkey from https://leancloud.cn
