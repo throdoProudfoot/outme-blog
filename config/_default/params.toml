@@ -127,12 +127,10 @@ commento = false
   #clientId = "3e672e7c4ddf39482f52" # ID
   #clientSecret = "fbd7d3c1015b6366909158bf050ab13d4f2daa00"       # Your client secret
 
-[ utteranc ]        # https://utteranc.es/
-  enable  =  true 
+[ utterances ]        # https://utteranc.es/
   owner = "throdoProudfoot"              # Your GitHub ID
-  repo =  "throdoProudfoot/outme-bog-comments"  ## Change to your own 
-  issueTerm =  "pathname" 
-  theme =  "github-dark"
+  repo =  "outme-bog-comments"  ## Change to your own 
+
 
 [gitalk]           # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk
   owner = ""              # Your GitHub ID
