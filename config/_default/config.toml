@@ -6,7 +6,7 @@ theme = "zzo"
 enableRobotsTXT = true
 
 defaultContentLanguageInSubdir = true
-hasCJKLanguage = true
+hasCJKLanguage = false
 
 summaryLength = 70
 buildFuture = true
@@ -37,25 +37,7 @@ homeMetaContent = "A blog about The One Ring TTRPG and Foundry VTT."
 dateFormat = "2 Jan 2006"
 navTitleLink = "/"
 
-[[menu.nav]]
-name = "Blog"
-url = "/"
-weight = 1
-
-[[menu.nav]]
-name = "Tags"
-url = "/tags/"
-weight = 2
-
-[[menu.nav]]
-name = "About"
-url = "/about/"
-weight = 3
-
-[[menu.nav]]
-name = "RSS"
-url = "/index.xml"
-weight = 4
+sectionPagesMenu = "main"
 
 [markup]
 defaultMarkdownHandler = "goldmark"
