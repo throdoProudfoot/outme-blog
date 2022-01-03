@@ -112,6 +112,8 @@ enableComment = true
 disqus_shortname = ""
 commento = false
 
+disqusShortname = 'throdoproudfoot'
+
 [telegram]
   enable = false
   siteId = ""
@@ -128,9 +130,10 @@ commento = false
   #clientSecret = "fbd7d3c1015b6366909158bf050ab13d4f2daa00"       # Your client secret
 
 [ utterances ]        # https://utteranc.es/
-  owner = "throdoProudfoot"              # Your GitHub ID
-  repo =  "outme-bog-comments"  ## Change to your own 
-
+  owner = ""              # Your GitHub ID
+  repo =  ""  ## Change to your own 
+  #owner = "throdoProudfoot"              # Your GitHub ID
+  #repo =  "outme-bog-comments"  ## Change to your own 
 
 [gitalk]           # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk
   owner = ""              # Your GitHub ID
