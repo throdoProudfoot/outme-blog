@@ -109,10 +109,8 @@ fullContents = false
 
 # comment
 enableComment = true
-disqus_shortname = ""
+disqus_shortname = "outme-blog"
 commento = false
-
-disqusShortname = 'throdoproudfoot'
 
 [telegram]
   enable = false
@@ -168,7 +166,7 @@ disqusShortname = 'throdoproudfoot'
   dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
 
 [socialOptions]
-  email = "mailto:throdo.proudfoot@email.com"
+  email = "mailto:throdo.proudfoot@gmail.com"
   phone = ""
   facebook = "https://www.facebook.com/tor2e"
   twitter = "https://twitter.com/ThrodoProudfoot"
