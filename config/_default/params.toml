@@ -117,6 +117,8 @@ commento = false
   siteId = ""
   dataLimit = 5
 
+disqusShortname = 'throdoproudfoot'
+
 [gitment]          # Gitment is a comment system based on GitHub issues. see https://github.com/imsun/gitment
   owner = "throdoProudfoot"              # Your GitHub ID
   repo = "outme-bog-comments"               # The repo to store comments
@@ -124,8 +126,8 @@ commento = false
   clientSecret = "fbd7d3c1015b6366909158bf050ab13d4f2daa00"       # Your client secret
 
 [utterances]       # https://utteranc.es/
-  owner = ""              # Your GitHub ID
-  repo = ""               # The repo to store comments
+  owner = "throdoProudfoot"              # Your GitHub ID
+  repo = "outme-bog-comments"               # The repo to store comments
 
 [gitalk]           # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk
   owner = ""              # Your GitHub ID
