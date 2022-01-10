@@ -8,7 +8,7 @@ slug = 'fell-active-effect'
 tags = ['tor2e-system', 'tutorials', 'tipsntricks']
 tags_weight = 21
 draft = false
-weight = 3
+weight = 2
 +++
 In lots of systems, having an item (magical or not) can modify the characteristics of an Hero or a Adversary. In Foundry VTT, it is possiblle to have this automation using Active Effect. In this article I will show you how to implement a way to automate the modification of the Piercing Blow modification of a Fell Weapon (Reward).  
 I will tell you how to do it, how it is working and also what is the limitation (TOR2e system).
