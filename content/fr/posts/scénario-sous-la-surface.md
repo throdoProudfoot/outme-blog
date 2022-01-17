@@ -130,7 +130,7 @@ La place du marché est bien sûr pleine de rumeurs et de spéculations après l
 - certains nains croient qu’une partie de la Vieille Ville est hantée par les esprits des victimes de Smaug
 - on aurait vu des orcs dans les alentours de la place du Marché la nuit dernière
 - la garde ne fera rien, elle a peur de rentrer dans la "Pierre Brisée" (jet d'énigmes réussi) qui est une pierre tournante de la contrebande à Dale.
-- la garde ne trouvera rien, elle n'a même trouvé comment les marchandises sont transportées dans et hors de Dale. Il y a des tunnels, c'est sûr !
+- la garde ne trouvera rien, elle n'a même pas trouvé comment les marchandises sont transportées dans et hors de Dale. Il y a des tunnels, c'est sûr !
 - le quartier de "Pierre-Brisée" est aux mains des sbires de l'ancien Maître de la Ville du Lac et ils utilisent les tunnels pour survivre.
 
 #### Rencontre avec Elstan
@@ -139,7 +139,7 @@ La compagnie est sans doute intriguée par la quête et se joint à une foule cr
 Après un peu d'attente, ils sont tous invités dans la cour du Palais, où Elstan les accueille agréablement.
 
 Il dit :
-> J'ai besoin d'un coup de main supplémentaire dans cette affaire, car plusieurs délégations commerciales sont en ville en ce moment. Elles occupent la Garde de la ville au niveau des quais et dans le quartier des marchands. Les groupes intéressés seront donc laissés à eux-mêmes, mais seront reconnus comme des agents de la Couronne s’ils ont des démêlés avec la Garde pendant leur enquête. Je vous conseille spécifiquement aux groupes de commencer leurs recherches dans les parties du vieux quartier connues sous le nom de " La Pierre Brisée ".
+> J'ai besoin d'un coup de main supplémentaire dans cette affaire, car plusieurs délégations commerciales sont en ville en ce moment. Elles occupent la Garde de la ville au niveau des quais et dans le quartier des marchands. Les groupes intéressés seront donc laissés à eux-mêmes, mais seront reconnus comme des agents de la Couronne s’ils ont des démêlés avec la Garde pendant leur enquête. Je vous conseille de commencer vos recherches dans le quartier de la Vieille Ville connues sous le nom de " La Pierre Brisée ".
 
 #### Réaction des candidats
 
@@ -169,7 +169,7 @@ Cependant, pour avoir accès à la bibliothèque elle-même, il faudra convaincr
 
 Une fois à l'intérieur, la bibliothèque royale n'en est qu'à ses débuts. Une grande pièce a été mise à sa disposition, mais jusqu'à présent, peu de livres sont rangés dans les étagères de manière ordonnée. Les livres, parchemins et documents qui s'y trouvent, sont plutôt empilés sur des tables ou entassés sur d'immenses étagères. De nombreux ouvrages sont soit en cours de restauration après avoir passé de longues années loin d'un lieu de stockage sûr, soit en train d'être catalogués et triés. Si la compagnie souhaite rechercher des informations sur la Vieille Ville et les Dédales qui la sous-tendent, ou des informations sur la hantise de la Pierre Brisée et ce qui peut s'y cacher, elle pourra rassembler des informations utiles pour découvrir des bribes de connaissances utiles.  
 Scan peut-être utilisé pour trouver les textes souhaités. Connaissance pour découvrir des bribes de connaissances utiles. Énigme pour rassembler des informations qui ne sont pas évidentes. Tous les défis sont (-1d) en raison de la nature désordonnée de la bibliothèque et un seul jet est autorisé par personnage, chaque niveau de réussite accordant un dé de réussite supplémentaire à utiliser dans la variante de voyage lors de la plongée dans la Vieille Ville dans la Cinquième partie.  
-Il est possible que la troupe ait une ou plusieurs questions spécifiques auxquelles elle espère trouver une réponse dans la bibliothèque et qu'elle souhaite obtenir une réponse réelle plutôt qu'un dé bonus. Si c'est le cas, le Gardien des Légendes devrait fixer un SR approprié, en cas de succès, offrir une information, de préférence sans trop en divulguer à ce stade. Un exemple de ceci serait de donner aux joueurs des informations sur la capacité de l'Ombre secrète, le Résident des Ténèbres, en ayant un vieux parchemin qui raconte que certaines créatures de l'Ombre semblent tirer leur force de l'obscurité, les attirer hors de l'obscurité, c'est les priver de leur pouvoir.
+Il est possible que la troupe ait une ou plusieurs questions spécifiques auxquelles elle espère trouver une réponse dans la bibliothèque et qu'elle souhaite obtenir une réponse réelle plutôt qu'un dé bonus. Si c'est le cas, en cas de succès, offrir une information, de préférence sans trop en divulguer à ce stade. Un exemple de ceci serait de donner aux joueurs des informations sur la capacité de l'Ombre secrète, le Résident des Ténèbres, en ayant un vieux parchemin qui raconte que certaines créatures de l'Ombre semblent tirer leur force de l'obscurité, les attirer hors de l'obscurité, c'est les priver de leur pouvoir.
 
 ## Quatrième partie - Fureter dans la misère
 
@@ -181,7 +181,7 @@ La Tolérance pour une telle rencontre est de 6. Une circonstance spéciale pour
 
 ### Présentation
 
-La façon dont la compagnie se présente à "Pierre Brisée" va rapidement se répandre dans le district et influencer la façon dont elle est perçue par les résidents. Si des présentations individuelles sont faites, les différents membres de la compagnie seront jugés sur leurs propres mérites, indépendamment des succès collectifs - Le Gardien des Légendes devrait donc noter comment chaque individu s'en sort et ajuster le SR des futurs jets en conséquence. La courtoisie a très peu de chance d'influencer les cœurs endurcis des "Pierre Brisée" et les jets se font à -1 dé. Les personnages qui ne se sont pas présentés et qui n'ont pas pris une part active à l'étape d'interaction devront faire face à un jet plus difficile pour refléter leur nature inconnue (-1 dé).
+La façon dont la compagnie se présente à "Pierre Brisée" va rapidement se répandre dans le district et influencer la façon dont elle est perçue par les résidents. Si des présentations individuelles sont faites, les différents membres de la compagnie seront jugés sur leurs propres mérites, indépendamment des succès collectifs - Le Gardien des Légendes devrait donc noter comment chaque individu s'en sort et ajuster les jets de dés futurs en conséquence (bonus/malus aux jets). La courtoisie a très peu de chance d'influencer les cœurs endurcis des "Pierre Brisée" et les jets se font à -1 dé. Les personnages qui ne se sont pas présentés et qui n'ont pas pris une part active à l'étape d'interaction devront faire face à un jet plus difficile pour refléter leur nature inconnue (-1 dé).
 
 ### Interaction
 
@@ -191,7 +191,7 @@ La compagnie est à la recherche d'informations et la plupart des résidents de 
 
 L'ordre dans lequel ils sont distribués est laissé à la discrétion du Gardien des Légendes.
 
-1. Ah, les Dédales, c'est ce qui arrive quand un dragon s'assied sur une ville, qu'une partie de celle-ci est écrasée dans les enfers et que vous obtenez un repaire labyrinthique pour les personnes ayant des criminelles. Il existe de nombreuses entrées dans les Dédales sous la Vieille Ville, mais il est facile de s'y perdre ou de s'y coincer dans ces vestiges d'anciens tunnels d'égouts, de caves creusées et de passages en ruine qui ne sont même pas tous reliés les uns aux autres [Offre également un point d'entrée spécifique aux Dédales si on le lui demande - les points d'entrée sont listés dans la cinquième partie.
+1. Ah, les Dédales, c'est ce qui arrive quand un dragon s'assied sur une ville, qu'une partie de celle-ci est écrasée dans les enfers et que vous obtenez un repaire labyrinthique pour les personnes ayant des activités criminelles. Il existe de nombreuses entrées dans les Dédales sous la Vieille Ville, mais il est facile de s'y perdre ou de s'y coincer dans ces vestiges d'anciens tunnels d'égouts, de caves creusées et de passages en ruine qui ne sont même pas tous reliés les uns aux autres [Offre également un point d'entrée spécifique aux Dédales si on le lui demande - les points d'entrée sont listés dans la cinquième partie.
 1. J'avais un ami, Ibba, qui vivait dans une cave sous un bâtiment abandonné, qui a disparu depuis quelques semaines maintenant. C'est au moins la troisième personne que je connait personnellement qui a disparu au cours des dernières années depuis qu’on est arrivé à Dale, et le Roi - crache - n'y a pas prêté attention jusqu'à ce que l'un d'entre nous aille mourir sous son nez, sur la place du marché [propose également un point d'entrée spécifique aux Dédales si on le lui demande].
 1. La "Pierre Brisée" est hanté, depuis des années maintenant. C'est le spectre de certains anciens habitants de la ville qui sont morts du dragon, dit-on. Maintenant que les Hommes vivent à nouveau dans la ville, les morts s’agitent, sortent de leurs tombes improvisées dans les Dédales en ruine en dessous et traquent les vivants pendant la nuit. L'homme qui est mort la nuit dernière, Berig était son nom, croyait fermement à la hantise de "Pierre Brisée" et ne se serait jamais approché des Dédales.
 1. J'ai eu une conversation arrosée avec Ole' Mattí l'ivrogne il y a quelque temps et il a juré qu'en se réveillant dans le caniveau une nuit, il a vu une énorme silhouette ombreuse qui suivait quelqu'un dans une ruelle, de façon très menaçante - mais quand Mattí a jeté un coup d'œil au coin de la rue, la ruelle était vide, même que c'était un cul-de-sac, y'avait pas de porte non plus.
@@ -205,7 +205,7 @@ Si la compagnie échoue à la rencontre, elle profitera quand même des succès 
 
 |Liste des personnages à rencontrer dans la Pierre Brisée|
 |--------------------------------------------------------|
-|**Jofur le Manchot** est un homme au visage long, un tas d'hommes fripés, assis sur un porche avec un regard lointain dans les yeux et une lourde odeur de spiritueux dans l'haleine.|
+|**Jofur le Manchot** est un homme au visage long et fripé, assis sous un porche, le regard lointain et l'haleine chargée de spiritueux.|
 |**Dalla** est une vieille femme au regard dur comme du silex, nourrissant autant de rancunes que de grincements et de douleurs dans ses os fatigués.|
 |**Herugrim fils d'Erling** est un homme fier et vantard, de grande taille et de grande voix, et aussi une quantité intimidante d'esprit vif et de sens aiguisés.|
 |**Linhild la Rouge** essaie juste de joindre les deux bouts comme elle le peut, mais toutes ses tentatives finissent inévitablement par un échec d'une manière ou d'une autre, déclenchant les accès de rage au visage rouge qui lui donnent son surnom.|
