@@ -21,15 +21,3 @@
   name = "Foundry VTT"
   url = "/tags/foundryvtt"
   weight = 30
-
-#[[main]]
-#  identifier = "resources"
-#  name = "Resources"
-#  url = "resources"
-#  weight = 40
-#
-#[[main]]
-#  identifier = "archive"
-#  name = "Archive"
-#  url = "archive"
-#  weight = 50

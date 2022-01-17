@@ -1,29 +1,23 @@
 [[main]]
+  identifier = "tags"
+  name = "Tags"
+  url = "/tags/"
+  weight = 1
+
+[[main]]
   identifier = "the-one-ring"
   name = "L'Anneau Unique"
-  url = "the-one-ring"
-  weight = 1
+  url = "/tags/the-one-ring"
+  weight = 2
 
 [[main]]
   identifier = "tor2e"
   name = "Système Tor2e"
-  url = "tor2e-system"
-  weight = 2
+  url = "/tags/tor2e-system"
+  weight = 3
 
 [[main]]
   identifier = "foundryvtt"
   name = "Foundry VTT"
-  url = "foundryvtt"
-  weight = 3
-
-[[main]]
-  identifier = "resources"
-  name = "Ressources"
-  url = "resources"
+  url = "/tags/foundryvtt"
   weight = 4
-  
-[[main]]
-  identifier = "archive"
-  name = "Archives"
-  url = "archive"
-  weight = 5
