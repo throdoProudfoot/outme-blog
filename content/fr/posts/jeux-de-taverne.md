@@ -58,6 +58,7 @@ Pour certains jeux, principalement les jeux qui ne sont pas des jeux stratégiqu
 #### Actions de l'adversaire (optionnel)
 
 Pour ceux qui souhaite un peu plus de simulation, il est possible, de manière optionnelle, de remplacer la résistance, qui simule la difficulté d'un adversaire, par des points de Résolution et des Talents au niveau des adversaires.  
+Si vous appliquez cette règle, il faut alors changer la résistance des adversaires et tous leur mettre une valeur de 3 puis leur donner des points de résolution ainsi que des talents adaptés aux jeux où ils participent.
 Chaque adversaire possède un certain nombre de points de Résolution (Resolve). Pour chaque point de Résolution dépensé, un adversaire peut activer un talent qui va soit rendre le jet de dés du Héro défavorisé ou bien donner une pénalité pour le jet de dés du Héro.  
 Lorsque l'adversaire est à 0 en Résolution alors il est épuisé (weary).  
 Rendez-vous dans le chapitre détaillant les différents jeux pour avoir une liste des talents disponibles par jeux ainsi que la façon dont ils modifient le jeu et les jets de dés des Héros.
@@ -78,6 +79,8 @@ Diminuez l'endurance du personnage-joueur d'un nombre de points égal au nombre 
 
 Voici une liste des jeux de tavernes que je vous propose, il y a un descriptif de chaque jeu ci-dessous mais comme ils suivent tous le même type de règles, vous pouvez créer votre ou vos propres jeux de tavernes. N'hésitez pas à les partager dans les commentaires pour en faire profiter la communauté.
 
+### Détails
+
 |Nom du Jeu|Compétences|Soutien|Fatigue|
 |:----:|:----:|:----:|:----:|
 |Fléchettes| Baguarre (Brawling)|oui|non|
@@ -87,3 +90,7 @@ Voici une liste des jeux de tavernes que je vous propose, il y a un descriptif d
 |Dés|Enigmes (Riddles)|non|non|
 |Cartes| Enigmes (Riddles)|non|non|
 |Chants| Chant (Song)|oui|non|
+
+### Talents des adversaires
+
+(en cours d'écriture)
