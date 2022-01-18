@@ -11,7 +11,7 @@ draft = false
 weight = 2
 +++
 
-Chaque jeux de taverne suit le même système de règles basé sur les réussites du personnage joueur qui est actif et qui doit obtenir 3 succès pour l'emporter sur son adversaire. Son adversaire, lui, ne lancera pas de dés, il n'est là qu'en opposition (défini la tolérance ou l'utilisation de talents qui modifiera le lancer du joueur).
+Chaque jeu de taverne suit le même système de règles basé sur les réussites du personnage joueur qui est actif et qui doit obtenir 3 succès pour l'emporter sur son adversaire. Son adversaire, lui, ne lancera pas de dés, il n'est là qu'en opposition (définis la tolérance ou l'utilisation de talents qui modifiera le lancer du joueur).
 
 ## Règles génériques
 
@@ -23,7 +23,7 @@ Chaque jeux de taverne suit le même système de règles basé sur les réussite
 
 ### Sélection de la Résistance de l'adversaire
 
-Un tableau simple qui vous donne en fonction du type d'adversaire, le nombre de jet de dés (tour) que le personnage joueur pourra tenter afin d'obtenir ses 3 succès avant de perdre. Mais vous pouvez étendre cette liste selon vos souhaits.
+Un tableau simple qui vous donne en fonction du type d'adversaire, le nombre de jets de dés (tour) que le personnage joueur pourra tenter afin d'obtenir ses 3 succès avant de perdre. Mais vous pouvez étendre cette liste selon vos souhaits.
 
 |Type d'Adversaire|Nombre de lancers|
 |:---:|:---:|
@@ -31,13 +31,13 @@ Un tableau simple qui vous donne en fonction du type d'adversaire, le nombre de 
 |Normal|3|
 |Difficile|2|
 
-Chaque adversaire à une résistance qui va octroyer un certain nombre de lancérs de dés au Héros pour obtenir ses 3 réussites, ce qui lui donnera la victoire, sinon il aura perdu sa rencontre.
+Chaque adversaire à une résistance qui va octroyer un certain nombre de lancers de dés au Héros pour obtenir ses 3 réussites, ce qui lui donnera la victoire, sinon il aura perdu sa rencontre.
 
-**Notes :** Chaque 6 (tengwar) lors du jet de ddés apporte un succès supplémentaire au succès obtenu si vous réussissez votre lancer.
+**Notes :** Chaque 6 (tengwar) lors du jet de dés apporte un succès supplémentaire au succès obtenu si vous réussissez votre lancer.
 
 ### Déroulement
 
-Les rencontres sont organisés en tour. Pour chaque tour, le personnage héro et l'adversaire ont le droit à un certain nombre d'actions qui influerons sur lancer de dés et donc le résultat du tour.
+Les rencontres sont organisées en tour. Pour chaque tour, le personnage héro et l'adversaire ont le droit à un certain nombre d'actions qui influeront sur un lancer de dés et donc le résultat du tour.
 
 #### Séquence d'un tour
 
@@ -57,9 +57,9 @@ Pour certains jeux, principalement les jeux qui ne sont pas des jeux stratégiqu
 
 #### Actions de l'adversaire (optionnel)
 
-Pour ceux qui souhaite un peu plus de simulation, il est possible, de manière optionnelle, de remplacer la résistance, qui simule la difficulté d'un adversaire, par des points de Résolution et des Talents au niveau des adversaires.  
+Pour ceux qui souhaitent un peu plus de simulation, il est possible, de manière optionnelle, de remplacer la résistance, qui simule la difficulté d'un adversaire, par des points de Résolution et des Talents au niveau des adversaires.  
 Si vous appliquez cette règle, il faut alors changer la résistance des adversaires et tous leur mettre une valeur de 3 puis leur donner des points de résolution ainsi que des talents adaptés aux jeux où ils participent.
-Chaque adversaire possède un certain nombre de points de Résolution (Resolve). Pour chaque point de Résolution dépensé, un adversaire peut activer un talent qui va soit rendre le jet de dés du Héro défavorisé ou bien donner une pénalité pour le jet de dés du Héro.  
+Chaque adversaire possède un certain nombre de points de Résolution (Resolve). Pour chaque point de Résolution dépensé, un adversaire peut activer un talent qui va soit rendre le jet de dés du Héros défavorisé ou bien donner une pénalité pour le jet de dés du Héros.  
 Lorsque l'adversaire est à 0 en Résolution alors il est épuisé (weary).  
 Rendez-vous dans le chapitre détaillant les différents jeux pour avoir une liste des talents disponibles par jeux ainsi que la façon dont ils modifient le jeu et les jets de dés des Héros.
 
@@ -68,16 +68,16 @@ Rendez-vous dans le chapitre détaillant les différents jeux pour avoir une lis
 Pour comptabiliser le nombre de succès obtenu par le Personnage Joueur, il faut suivre la règle suivante :
 
 - 0 si échec au jet
-- 1 si succès au jet e dés plus 1 point par 6 obtenu.
+- 1 si succès au jet de dés plus 1 point par 6 obtenu.
 
 #### Modification de la fatigue (optionnel)
 
-Pour les jeux qui génèrent de la fatigue (voir le chapitre avec les détails des jeux) pour savoir si c'est un jeu qui génère de la fatigue. Cette fatigue est temporaire et concomitente aux épreuves et après un repos long, cette fatigue aura disparue.  
-Diminuez l'endurance du personnage-joueur d'un nombre de points égal au nombre fournit par le détail du jeu auquel il participe.
+Pour les jeux qui génèrent de la fatigue (voir le chapitre avec les détails des jeux) pour savoir si c'est un jeu qui génère de la fatigue. Cette fatigue est temporaire et concomitante aux épreuves et après un repos long, cette fatigue aura disparu.  
+Diminuez l'endurance du personnage-joueur d'un nombre de points égal au nombre fourni par le détail du jeu auquel il participe.
 
 ## Liste des jeux de Taverne
 
-Voici une liste des jeux de tavernes que je vous propose, il y a un descriptif de chaque jeu ci-dessous mais comme ils suivent tous le même type de règles, vous pouvez créer votre ou vos propres jeux de tavernes. N'hésitez pas à les partager dans les commentaires pour en faire profiter la communauté.
+Voici une liste des jeux de tavernes que je vous propose, il y a un descriptif de chaque jeu ci-dessous, mais comme ils suivent tous le même type de règles, vous pouvez créer votre ou vos propres jeux de tavernes. N'hésitez pas à les partager dans les commentaires pour en faire profiter la communauté.
 
 ### Détails
 
