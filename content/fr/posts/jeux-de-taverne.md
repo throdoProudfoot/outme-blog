@@ -86,11 +86,44 @@ Voici une liste des jeux de tavernes que je vous propose, il y a un descriptif d
 |Fléchettes| Baguarre (Brawling)|oui|non|
 |Bras de Fer| Athlétisme (Athletics)|oui|oui (2)|
 |Le Dernier Debout| Athlétisme (Athletics)|oui|oui (2)|
-|Glisse Chope| Athlétisme (Athletics)|oui|oui (1)|
+|Glisse Chope| Athlétisme (Athletics)|oui|oui* (1)|
 |Dés|Enigmes (Riddles)|non|non|
 |Cartes| Enigmes (Riddles)|non|non|
 |Chants| Chant (Song)|oui|non|
 
+(*) si on fait tomber sa choppe
+
 ### Talents des adversaires
 
-(en cours d'écriture)
+### Description
+
+#### Fléchettes
+
+Jeu assez standard dans les auberges et les tavernes. Une cible circulaire, ayant des cercles concentriques qui représentent chacun d'eux un certain nombre de points. Celui qui fait le plus de points gagne la manche.  
+On peut dériver les fléchettes pour le faire avec des couteaux, des hachettes, fer à cheval ou bien un arc ou des lances, en fonction des circonstances. Il faut juste adapter la taille et la matière de la cible.
+
+#### Bras de Fer
+
+Un jeu qui oppose 2 personnes, face à face, le gagnant est celui qui amène la main de l'autre au contact de la table.  
+On peut décliner ce jeu en utilisant son pied à la place de la main, qui s'appelle "lutte à l'orteil". On dénude son pied et on essaye de faire basculer son adversaire avec son gros orteil.
+
+#### Le Dernier Debout
+
+On boit, on boit, on boit et tant qu'on peut rester debout, on boit, dès que l'on tombe, on perd. Le dernier debout a gagné.
+
+#### Glisse Chope
+
+On remplit sa choppe puis on la fait glisser sur une longue table, celui qui gagne est celui qui approche le plus sa choppe du bord de la table sans la faire tomber. Si on fait tomber sa choppe ou si elle tombe de la table alors on doit boire une choppe.  
+La choppe tombe de la table ou se renverse lorsque l'on fait un Oeil de Sauron sur le dé du destin.
+
+#### Dés
+
+N'importe quel sorte de jeu de dés (avec des dés spéciaux, des dés à 6 faces ...), des combinaisons, le maximum, le minimum ...
+
+#### Cartes
+
+N'importe quel jeu de cartes, en équipe ou tout seul.
+
+#### Chants
+
+Le but de ce concours une sorte de battle entre 2 participants, il faut savoir chanter en communion avec son adversaire mais tout en sortant du lot et en prenant le dessus.
