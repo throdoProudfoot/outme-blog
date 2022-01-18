@@ -11,35 +11,77 @@ draft = false
 weight = 2
 +++
 
+Chaque jeux de taverne suit le même système de règles basé sur les réussites du personnage joueur qui est actif et qui doit obtenir 3 succès pour l'emporter sur son adversaire. Son adversaire, lui, ne lancera pas de dés, il n'est là qu'en opposition (défini la tolérance ou l'utilisation de talents qui modifiera le lancer du joueur).
+## Règles génériques
+
+### Séquences de la rencontre
+
+1. Sélection de la tolérance de l'adversaire
+1. Rencontre
+1. Résultat de la rencontre
+
+### Sélection de la Tolérance de l'adversaire
+
+Un tableau simple qui vous donne en fonction du type d'adversaire, le nombre de jet de dés (tour) que le personnage joueur pourra tenter afin d'obtenir ses 3 succès avant de perdre. Mais vous pouvez étendre cette liste selon vos souhaits.
+
+|Type d'Adversaire|Nombre de lancers|
+|:---:|:---:|
+|Simple|4|
+|Normal|3|
+|Difficile|2|
+
+Chaque adversaire à une tolérance qui va octroyer un certain nombre de lancérs de dés au Héros pour obtenir ses 3 réussites, ce qui lui donnera la victoire, sinon il aura perdu sa rencontre.
+
+**Notes :** Chaque 6 (tengwar) lors du jet de ddés apporte un succès supplémentaire au succès obtenu si vous réussissez votre lancer.
+
+### Rencontre
+
+Les rencontres sont organisés en tour. Pour chaque tour, le personnage héro et l'adversaire ont le droit à un certain nombre d'actions qui influerons sur lancer de dés et donc le résultat du tour.
+
+#### Séquence de la rencontre
+
+1. Prendre l'ascendant
+1. Soutien (optionnel)
+1. Actions de l'adversaire
+1. Résultat du tour
+1. Modification de la fatigue (optionnel)
+
+#### Prendre l'ascendant
+
+Une fois par rencontre, le Héro-Joueur a le droit de réaliser un jet participant a de plus droit à un jet de dé d'une compétence sociale (Présence, Persuasion, Enigmes ou Intuition) pour influer sur l'adversaire et gagner un dé de bonus sur un succès, 2 sur un succès supérieur et 3 sur un succès extraordinaire. Ces dés de bonus ne sont utilisables que sur le tour de rencontre actuel, il n'est pas possible de garder ces dés de bonus pour d'autres tours.
+
+#### Soutien (optionnel)
+
+Pour certains jeux, principalement les jeux qui ne sont pas des jeux stratégiques (cartes) ou de chance (dés), un membre de la communauté peut soutenir un autre membre de cette dernière, en dépensant 1 point d'espoir, en utilisant la compétence Insuffler/Encourager (Enhearten).
+
+#### Actions de l'adversaire
+
+Chaque adversaire possède un certain nombre de points de Résolution (Resolve). Pour chaque point de Résolution dépensé, un adversaire peut activer un talent qui va soit rendre le jet de dés du Héro défavorisé ou bien donner une pénalité pour le jet de dés du Héro.  
+Lorsque l'adversaire est à 0 en Résolution alors il est épuisé (weary).  
+Rendez-vous dans le chapitre détaillant les différents jeux pour avoir une liste des talents disponibles par jeux ainsi que la façon dont ils modifient le jeu.
+
+#### Résultat du tour
+
+Pour comptabiliser le nombre de succès obtenu par le Personnage Joueur, il faut suivre la règle suivante :
+
+- 0 si échec au jet
+- 1 si succès au jet e dés plus 1 point par 6 obtenu.
+
+#### Modification de la fatigue (optionnel)
+
+Pour les jeux qui génèrent de la fatigue (voir le chapitre avec les détails des jeux) pour savoir si c'est un jeu qui génère de la fatigue. Cette fatigue est temporaire et concomitente aux épreuves et après un repos long, cette fatigue aura disparue.  
+Diminuez l'endurance du personnage-joueur d'un nombre de points égal au nombre fournit par le détail du jeu auquel il participe.
+
 ## Liste des jeux de Taverne
 
-- Fléchettes (Brawling)
-- Bras de Fer (Athlétisme/Fatigue)
-- Le Dernier Debout (Athlétisme/fatigue)
-- Glisse Chope (Athlétisme/Fatigue)
-- Dés, Cartes (Enigmes)
-- Chants (Chant)
+Voici une liste des jeux de tavernes que je vous propose, il y a un descriptif de chaque jeu ci-dessous mais comme ils suivent tous le même type de règles, vous pouvez créer votre ou vos propres jeux de tavernes. N'hésitez pas à les partager dans les commentaires pour en faire profiter la communauté.
 
-### Règle de base
-
-Chaque adversaire à une résistance qui va octroyer un certain nombre de lancés au Héros pour résussir ses 3 réussites, ce qui lui donnera la victoire, sinon il aura perdu et il sera éliminé.
-
-**Notes :** Chaque 6 (tengwar) apporte un succès supplémentaire.
-
-### Prendre l'ascendant
-
-De plus, chaque participant a de plus droit à un jet de dé d'une compétence sociale (Présence, Persuasion, Enigmes ou Intuition) pour influer sur l'adversaire et gagner un dé de bonus sur un succès, 2 sur un succès supérieur et 3 sur un succès extraordinaire.
-
-### Soutien
-
-Un membre du groupe peut soutenir son équipier en utilisant la compétence Insuffler (enhearten) ou Enigmes.
-
-### Fatigue
-
-Pour les jeux qui génèrent de la fatigue, diminuer l'Endurance du joueur de 2 fois le nombre de lancer de dés.
-
-### Résistance des adversaires
-
-- 4 (adversaire simple)
-- 3 (adversaire normal)
-- 2 (adversaire difficile)
+|Nom du Jeu|Compétences|Soutien|Fatigue|
+|:----:|:----:|:----:|:----:|
+|Fléchettes| Baguarre (Brawling)|oui|non|
+|Bras de Fer| Athlétisme (Athletics)|oui|oui (2)|
+|Le Dernier Debout| Athlétisme (Athletics)|oui|oui (2)|
+|Glisse Chope| Athlétisme (Athletics)|oui|oui (1)|
+|Dés|Enigmes (Riddles)|non|non|
+|Cartes| Enigmes (Riddles)|non|non|
+|Chants| Chant (Song)|oui|non|
