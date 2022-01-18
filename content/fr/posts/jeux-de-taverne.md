@@ -95,7 +95,9 @@ Voici une liste des jeux de tavernes que je vous propose, il y a un descriptif d
 
 ### Talents des adversaires
 
-### Description
+(en cours d'écriture)
+
+### Descriptions des jeux
 
 #### Fléchettes
 
