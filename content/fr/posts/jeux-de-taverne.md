@@ -73,7 +73,7 @@ Pour comptabiliser le nombre de succès obtenu par le Personnage Joueur, il faut
 #### Modification de la fatigue (optionnel)
 
 Pour les jeux qui génèrent de la fatigue (voir le chapitre avec les détails des jeux) pour savoir si c'est un jeu qui génère de la fatigue. Cette fatigue est temporaire et concomitante aux épreuves et après un repos long, cette fatigue aura disparu.  
-Diminuez l'endurance du personnage-joueur d'un nombre de points égal au nombre fourni par le détail du jeu auquel il participe.
+Diminuez l'endurance du personnage-joueur d'un nombre de points égal au nombre fourni par le tabeau contenant le détail du jeu auquel il participe.
 
 ## Liste des jeux de Taverne
 
@@ -85,7 +85,7 @@ Voici une liste des jeux de tavernes que je vous propose, il y a un descriptif d
 |:----:|:----:|:----:|:----:|
 |Fléchettes| Baguarre (Brawling)|oui|non|
 |Bras de Fer| Athlétisme (Athletics)|oui|oui (2)|
-|Le Dernier Debout| Athlétisme (Athletics)|oui|oui (2)|
+|Le Dernier Debout| Athlétisme (Athletics)|oui|oui (4)|
 |Glisse Chope| Athlétisme (Athletics)|oui|oui* (1)|
 |Dés|Enigmes (Riddles)|non|non|
 |Cartes| Énigmes (Riddles)|non|non|
