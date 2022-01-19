@@ -61,7 +61,14 @@ Pour ceux qui souhaitent un peu plus de simulation, il est possible, de manière
 Si vous appliquez cette règle, il faut alors changer la résistance des adversaires et tous leur mettre une valeur de 3 puis leur donner des points de résolution ainsi que des talents adaptés aux jeux où ils participent.
 Chaque adversaire possède un certain nombre de points de Résolution (Resolve). Pour chaque point de Résolution dépensé, un adversaire peut activer un talent qui va soit rendre le jet de dés du Héros défavorisé ou bien donner une pénalité pour le jet de dés du Héros.  
 Lorsque l'adversaire est à 0 en Résolution alors il est épuisé (weary).  
-Rendez-vous dans le chapitre détaillant les différents jeux pour avoir une liste des talents disponibles par jeux ainsi que la façon dont ils modifient le jeu et les jets de dés des Héros.
+Rendez-vous dans le chapitre détaillant les différents jeux pour avoir une liste des talents disponibles par jeux ainsi que la façon dont ils modifient le jeu et les jets de dés des Héros.  
+Reportez-vous au tableau ci-dessous pour connaitre le nombre de points de résolution pour chaque type d'adversaire.
+
+|Type d'Adversaire|Nombre de lancers|Résolution|
+|:---:|:---:|:---:|
+|Simple|5|1|
+|Normal|4|2|
+|Difficile|3|4|
 
 ### Résultat du tour
 
