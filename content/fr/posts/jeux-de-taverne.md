@@ -21,7 +21,7 @@ Chaque jeu de taverne suit le même système de règles basé sur les réussites
 1. Déroulement
 1. Résultat de la rencontre
 
-### Sélection de la Résistance de l'adversaire
+## Sélection de la Résistance de l'adversaire
 
 Un tableau simple qui vous donne en fonction du type d'adversaire, le nombre de jets de dés (tour) que le personnage joueur pourra tenter afin d'obtenir ses 3 succès avant de perdre. Mais vous pouvez étendre cette liste selon vos souhaits.
 
@@ -35,11 +35,11 @@ Chaque adversaire à une résistance qui va octroyer un certain nombre de lancer
 
 **Notes :** Chaque 6 (tengwar) lors du jet de dés apporte un succès supplémentaire au succès obtenu si vous réussissez votre lancer.
 
-### Déroulement
+## Déroulement
 
 Les rencontres sont organisées en tour. Pour chaque tour, le personnage héros et l'adversaire ont le droit à un certain nombre d'actions qui influeront sur un lancer de dés et donc le résultat du tour.
 
-#### Séquence d'un tour
+### Séquence d'un tour
 
 1. Prendre l'ascendant
 1. Soutien (optionnel)
@@ -47,15 +47,15 @@ Les rencontres sont organisées en tour. Pour chaque tour, le personnage héros 
 1. Résultat du tour
 1. Modification de la fatigue (optionnel)
 
-#### Prendre l'ascendant
+### Prendre l'ascendant
 
 Une fois par rencontre, le Héro-Joueur a le droit de réaliser un jet participant a de plus droit à un jet de dé d'une compétence sociale (Présence, Persuasion, Énigmes ou Intuition) pour influer sur l'adversaire et gagner un dé de bonus sur un succès, 2 sur un succès supérieur et 3 sur un succès extraordinaire. Ces dés de bonus ne sont utilisables que sur le tour de rencontre actuel, il n'est pas possible de garder ces dés de bonus pour d'autres tours.
 
-#### Soutien (optionnel)
+### Soutien (optionnel)
 
 Pour certains jeux, principalement les jeux qui ne sont pas des jeux stratégiques (cartes) ou de chance (dés), un membre de la communauté peut soutenir un autre membre de cette dernière, en dépensant 1 point d'espoir, en utilisant la compétence Insuffler/Encourager (Enhearten).
 
-#### Actions de l'adversaire (optionnel)
+### Actions de l'adversaire (optionnel)
 
 Pour ceux qui souhaitent un peu plus de simulation, il est possible, de manière optionnelle, de remplacer la résistance, qui simule la difficulté d'un adversaire, par des points de Résolution et des Talents au niveau des adversaires.  
 Si vous appliquez cette règle, il faut alors changer la résistance des adversaires et tous leur mettre une valeur de 3 puis leur donner des points de résolution ainsi que des talents adaptés aux jeux où ils participent.
@@ -63,17 +63,22 @@ Chaque adversaire possède un certain nombre de points de Résolution (Resolve).
 Lorsque l'adversaire est à 0 en Résolution alors il est épuisé (weary).  
 Rendez-vous dans le chapitre détaillant les différents jeux pour avoir une liste des talents disponibles par jeux ainsi que la façon dont ils modifient le jeu et les jets de dés des Héros.
 
-#### Résultat du tour
+### Résultat du tour
 
 Pour comptabiliser le nombre de succès obtenu par le Personnage Joueur, il faut suivre la règle suivante :
 
 - 0 si échec au jet
 - 1 si succès au jet de dés plus 1 point par 6 obtenu.
 
-#### Modification de la fatigue (optionnel)
+### Modification de la fatigue (optionnel)
 
 Pour les jeux qui génèrent de la fatigue (voir le chapitre avec les détails des jeux) pour savoir si c'est un jeu qui génère de la fatigue. Cette fatigue est temporaire et concomitante aux épreuves et après un repos long, cette fatigue aura disparu.  
 Diminuez l'endurance du personnage-joueur d'un nombre de points égal au nombre fourni par le tabeau contenant le détail du jeu auquel il participe.
+
+## Résultat de la Rencontre
+
+Pour connaitre le résultat de la rencontre, vous devez cumuler le nombre de succès obtenus avec les lancers de dés du joueur-héros, si vous avez 3 succès ou plus, il est victorieux sinon il a perdu.  
+Pour calculer le nombre de succès reportez-vous au chapitre Résutat du tour (ci-dessus).
 
 ## Liste des jeux de Taverne
 
@@ -85,7 +90,7 @@ Voici une liste des jeux de tavernes que je vous propose, il y a un descriptif d
 |:----:|:----:|:----:|:----:|
 |Fléchettes| Baguarre (Brawling)|oui|non|
 |Bras de Fer| Athlétisme (Athletics)|oui|oui (2)|
-|Le Dernier Debout| Athlétisme (Athletics)|oui|oui (4)|
+|Le Dernier Debout| Athlétisme (Athletics)|oui|oui (5)|
 |Glisse Chope| Athlétisme (Athletics)|oui|oui* (1)|
 |Dés|Enigmes (Riddles)|non|non|
 |Cartes| Énigmes (Riddles)|non|non|
@@ -117,11 +122,13 @@ On peut décliner ce jeu en utilisant son pied à la place de la main, qui s'app
 
 #### Le Dernier Debout
 
-On boit, on boit, on boit et tant qu'on peut rester debout, on boit, dès que l'on tombe, on perd. Le dernier debout a gagné.
+On boit, on boit, on boit et tant qu'on peut rester debout, on boit, dès que l'on tombe, on perd. Le dernier debout a gagné.  
+La rencontre se déroule en une seule manche où tous les participants boivent en même temps et à la fin il n'en reste qu'un, le gagnant !
 
 ##### Talents des adversaires
 
-- **Le verrou :** Après de nombreux verres, l'adversaire verrouille son bras et sa jambe contre la table pour s'assurer une stabilité que son cerveau ne peut plus lui proposer. Le héros joueur va devoir faire son jet de manière défavorisé (ill-favoured) pour éviter de sombrer.
+- **Cul-sec:** L'adversaire brandit son verre/chope est demande au participant de boire le verre cul-sec. Grâce à sa technique personnelle, il laisse descendre doucement la boisson dans sa gorge contrairement aux autres qui boivent d'un coup. L'alcool fait son effet et le héros joueur va devoir faire son jet de manière défavorisé (ill-favoured) afin d'assimiler l'alcool sans choir.
+- **Le verrou :** Après de nombreux verres, l'adversaire verrouille son bras et sa jambe contre la table pour s'assurer une stabilité que son cerveau ne peut plus lui proposer. Ce talent est réservé au dernier jet de la manche quand les organismes sont ébranlés. le joueur-héros doit faire son jet avec un malus de 1d pour ne pas sombrer sous l'effet de l'alcool pour ne pas chutter aux pieds de son adversaires.
 - **Le Toast :** L'adversaire propose un toast à l'assemblée, réalisant un petit discours qui le dégrise, le joueur-héros doit faire son jet avec un malus de 1d pour ne pas sombrer sous l'effet de l'alcool et de la liesse qui l'entoure.
 
 #### Glisse Chope
@@ -160,3 +167,4 @@ Le but de ce concours une sorte de battle entre 2 participants, il faut savoir c
 
 - **Notes de passages :** L'adversaire force des notes dans la zone de transition entre la voix de poitrine et la voix de tête du héros qui doit faire très attention pour bien chanter. Le héros doit faire son jet de manière défavorisé (ill-favoured) pour éviter que son adversaire ne prenne l'avantage.
 - **Transposition :** L'adversaire utilise la technique de la transposition qui consiste à décaler toutes les notes d’un intervalle fixe vers l’aigu ou le grave, ceci peut désorienter le joueur-héros doit faire son jet avec un malus de 1d.
+
