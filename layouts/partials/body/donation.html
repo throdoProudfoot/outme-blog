@@ -1,3 +1,9 @@
+<style>
+  a.donation__item > svg {
+    box-sizing: unset;
+}
+
+</style>
 {{ if $.Param "donationOptions.enable" }}
 <div class="donation">
   <div class="donation__message">
@@ -14,7 +20,7 @@
     {{ else if in $name "kofi" }}
     <a href="{{ $path | safeURL }}" title="{{ $name }}" aria-label="{{ $name }}" class="donation__item" target="_blank"
       rel="noreferrer" data-type="donation">
-      {{ partial (print "svgs/donation/" $name ".svg") (dict "width" 95 "height" 35) }}
+      {{ partial (print "svgs/donation/" $name ".svg") (dict "width" 150 "height" 75) }}
     </a>
     {{ else if in $name "paypal" }}
     <a href="{{ $path | safeURL }}" title="{{ $name }}" aria-label="{{ $name }}" class="donation__item" target="_blank"
