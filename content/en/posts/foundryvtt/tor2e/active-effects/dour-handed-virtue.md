@@ -78,4 +78,6 @@ To create a Dour-Handed virtue with full automation, you have to keep in mind th
 * Add [Heavy Blow bonus]({{< relref "#heavy-blow-damage-bonus">}}) 
 * Add [Pierce bonus]({{< relref "#pierce-feat-die-bonus">}})   
 
+![Dour-Handed Active Effects](/images/tor2e/active-effects/add-1-heavy-blow-conf-3.png)
+
 Feel free to play around with the AE, it is a great opportunity of automation but keep in mind it is still a WIP feature of Foundry VTT.
