@@ -27,7 +27,7 @@ series = 'series'
 tutorials = 'tutorials'
 
 [permalinks]
-post = "/:filename/"
+post = "/:contentbasename/"
 
 [imaging]
 quality = 99
