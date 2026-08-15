@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Categories on Outme Blog</title>
+    <link>http://localhost:1313/en/categories/</link>
+    <description>Recent content in Categories on Outme Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>throdo.proudfoot@gmail.com (Throdo Proudfoot)</managingEditor>
+    <webMaster>throdo.proudfoot@gmail.com (Throdo Proudfoot)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 03 May 2026 00:00:00 +0200</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      <item>
+        <title>Game Mastering</title>
+        <link>http://localhost:1313/en/categories/game-mastering/</link>
+        <pubDate>Sun, 03 May 2026 00:00:00 +0200</pubDate>
+        <author>throdo.proudfoot@gmail.com (Throdo Proudfoot)</author>
+        
+        <guid>http://localhost:1313/en/categories/game-mastering/</guid>
+        <description></description>
+        
+        <dc:creator>Throdo Proudfoot</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+    
+      <item>
+        <title>TheOneRingV2</title>
+        <link>http://localhost:1313/en/categories/theoneringv2/</link>
+        <pubDate>Sun, 03 May 2026 00:00:00 +0200</pubDate>
+        <author>throdo.proudfoot@gmail.com (Throdo Proudfoot)</author>
+        
+        <guid>http://localhost:1313/en/categories/theoneringv2/</guid>
+        <description></description>
+        
+        <dc:creator>Throdo Proudfoot</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+    
+      <item>
+        <title>ActiveEffect</title>
+        <link>http://localhost:1313/en/categories/activeeffect/</link>
+        <pubDate>Sat, 10 Dec 2022 11:42:13 +0100</pubDate>
+        <author>throdo.proudfoot@gmail.com (Throdo Proudfoot)</author>
+        
+        <guid>http://localhost:1313/en/categories/activeeffect/</guid>
+        <description></description>
+        
+        <dc:creator>Throdo Proudfoot</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+    
+      <item>
+        <title>TipsNTricks</title>
+        <link>http://localhost:1313/en/categories/tipsntricks/</link>
+        <pubDate>Sat, 10 Dec 2022 11:42:13 +0100</pubDate>
+        <author>throdo.proudfoot@gmail.com (Throdo Proudfoot)</author>
+        
+        <guid>http://localhost:1313/en/categories/tipsntricks/</guid>
+        <description></description>
+        
+        <dc:creator>Throdo Proudfoot</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+    
+      <item>
+        <title>Tor2e</title>
+        <link>http://localhost:1313/en/categories/tor2e/</link>
+        <pubDate>Sat, 10 Dec 2022 11:42:13 +0100</pubDate>
+        <author>throdo.proudfoot@gmail.com (Throdo Proudfoot)</author>
+        
+        <guid>http://localhost:1313/en/categories/tor2e/</guid>
+        <description></description>
+        
+        <dc:creator>Throdo Proudfoot</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+    
+      <item>
+        <title>Tutorials</title>
+        <link>http://localhost:1313/en/categories/tutorials/</link>
+        <pubDate>Sat, 10 Dec 2022 11:42:13 +0100</pubDate>
+        <author>throdo.proudfoot@gmail.com (Throdo Proudfoot)</author>
+        
+        <guid>http://localhost:1313/en/categories/tutorials/</guid>
+        <description></description>
+        
+        <dc:creator>Throdo Proudfoot</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+    
+      <item>
+        <title>Personal Characters</title>
+        <link>http://localhost:1313/en/categories/personal-characters/</link>
+        <pubDate>Thu, 31 Mar 2022 11:42:13 +0100</pubDate>
+        <author>throdo.proudfoot@gmail.com (Throdo Proudfoot)</author>
+        
+        <guid>http://localhost:1313/en/categories/personal-characters/</guid>
+        <description></description>
+        
+        <dc:creator>Throdo Proudfoot</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+    
+      <item>
+        <title>Blog</title>
+        <link>http://localhost:1313/en/categories/blog/</link>
+        <pubDate>Thu, 30 Dec 2021 11:42:13 +0100</pubDate>
+        <author>throdo.proudfoot@gmail.com (Throdo Proudfoot)</author>
+        
+        <guid>http://localhost:1313/en/categories/blog/</guid>
+        <description></description>
+        
+        <dc:creator>Throdo Proudfoot</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+    
+      <item>
+        <title>Tolkien</title>
+        <link>http://localhost:1313/en/categories/tolkien/</link>
+        <pubDate>Thu, 30 Dec 2021 11:42:13 +0100</pubDate>
+        <author>throdo.proudfoot@gmail.com (Throdo Proudfoot)</author>
+        
+        <guid>http://localhost:1313/en/categories/tolkien/</guid>
+        <description></description>
+        
+        <dc:creator>Throdo Proudfoot</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Tags on Outme Blog</title>
+    <link>http://localhost:1313/en/tags/</link>
+    <description>Recent content in Tags on Outme Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>throdo.proudfoot@gmail.com (Throdo Proudfoot)</managingEditor>
+    <webMaster>throdo.proudfoot@gmail.com (Throdo Proudfoot)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 03 May 2026 00:00:00 +0200</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      <item>
+        <title>Loremaster</title>
+        <link>http://localhost:1313/en/tags/loremaster/</link>
+        <pubDate>Sun, 03 May 2026 00:00:00 +0200</pubDate>
+        <author>throdo.proudfoot@gmail.com (Throdo Proudfoot)</author>
+        
+        <guid>http://localhost:1313/en/tags/loremaster/</guid>
+        <description></description>
+        
+        <dc:creator>Throdo Proudfoot</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+    
+      <item>
+        <title>Middle-Earth</title>
+        <link>http://localhost:1313/en/tags/middle-earth/</link>
+        <pubDate>Sun, 03 May 2026 00:00:00 +0200</pubDate>
+        <author>throdo.proudfoot@gmail.com (Throdo Proudfoot)</author>
+        
+        <guid>http://localhost:1313/en/tags/middle-earth/</guid>
+        <description></description>
+        
+        <dc:creator>Throdo Proudfoot</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+    
+      <item>
+        <title>The-One-Ring</title>
+        <link>http://localhost:1313/en/tags/the-one-ring/</link>
+        <pubDate>Sun, 03 May 2026 00:00:00 +0200</pubDate>
+        <author>throdo.proudfoot@gmail.com (Throdo Proudfoot)</author>
+        
+        <guid>http://localhost:1313/en/tags/the-one-ring/</guid>
+        <description></description>
+        
+        <dc:creator>Throdo Proudfoot</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+    
+      <item>
+        <title>Tolkien</title>
+        <link>http://localhost:1313/en/tags/tolkien/</link>
+        <pubDate>Sun, 03 May 2026 00:00:00 +0200</pubDate>
+        <author>throdo.proudfoot@gmail.com (Throdo Proudfoot)</author>
+        
+        <guid>http://localhost:1313/en/tags/tolkien/</guid>
+        <description></description>
+        
+        <dc:creator>Throdo Proudfoot</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+    
+      <item>
+        <title>Tipsntricks</title>
+        <link>http://localhost:1313/en/tags/tipsntricks/</link>
+        <pubDate>Sat, 10 Dec 2022 11:42:13 +0100</pubDate>
+        <author>throdo.proudfoot@gmail.com (Throdo Proudfoot)</author>
+        
+        <guid>http://localhost:1313/en/tags/tipsntricks/</guid>
+        <description></description>
+        
+        <dc:creator>Throdo Proudfoot</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+    
+      <item>
+        <title>Tor2e-System</title>
+        <link>http://localhost:1313/en/tags/tor2e-system/</link>
+        <pubDate>Sat, 10 Dec 2022 11:42:13 +0100</pubDate>
+        <author>throdo.proudfoot@gmail.com (Throdo Proudfoot)</author>
+        
+        <guid>http://localhost:1313/en/tags/tor2e-system/</guid>
+        <description></description>
+        
+        <dc:creator>Throdo Proudfoot</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+    
+      <item>
+        <title>Tutorials</title>
+        <link>http://localhost:1313/en/tags/tutorials/</link>
+        <pubDate>Sat, 10 Dec 2022 11:42:13 +0100</pubDate>
+        <author>throdo.proudfoot@gmail.com (Throdo Proudfoot)</author>
+        
+        <guid>http://localhost:1313/en/tags/tutorials/</guid>
+        <description></description>
+        
+        <dc:creator>Throdo Proudfoot</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+    
+      <item>
+        <title>Pcs</title>
+        <link>http://localhost:1313/en/tags/pcs/</link>
+        <pubDate>Thu, 31 Mar 2022 11:42:13 +0100</pubDate>
+        <author>throdo.proudfoot@gmail.com (Throdo Proudfoot)</author>
+        
+        <guid>http://localhost:1313/en/tags/pcs/</guid>
+        <description></description>
+        
+        <dc:creator>Throdo Proudfoot</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+    
+      <item>
+        <title>Tips-N-Tricks</title>
+        <link>http://localhost:1313/en/tags/tips-n-tricks/</link>
+        <pubDate>Sat, 01 Jan 2022 11:42:13 +0100</pubDate>
+        <author>throdo.proudfoot@gmail.com (Throdo Proudfoot)</author>
+        
+        <guid>http://localhost:1313/en/tags/tips-n-tricks/</guid>
+        <description></description>
+        
+        <dc:creator>Throdo Proudfoot</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+    
+      <item>
+        <title>Blog</title>
+        <link>http://localhost:1313/en/tags/blog/</link>
+        <pubDate>Thu, 30 Dec 2021 11:42:13 +0100</pubDate>
+        <author>throdo.proudfoot@gmail.com (Throdo Proudfoot)</author>
+        
+        <guid>http://localhost:1313/en/tags/blog/</guid>
+        <description></description>
+        
+        <dc:creator>Throdo Proudfoot</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+    
+      <item>
+        <title>Mood</title>
+        <link>http://localhost:1313/en/tags/mood/</link>
+        <pubDate>Thu, 30 Dec 2021 11:42:13 +0100</pubDate>
+        <author>throdo.proudfoot@gmail.com (Throdo Proudfoot)</author>
+        
+        <guid>http://localhost:1313/en/tags/mood/</guid>
+        <description></description>
+        
+        <dc:creator>Throdo Proudfoot</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+    
+  </channel>
+</rss>

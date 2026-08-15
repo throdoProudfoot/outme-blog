@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Categories on Blog Outme</title>
+    <link>http://localhost:1313/fr/categories/</link>
+    <description>Recent content in Categories on Blog Outme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <managingEditor>throdo.proudfoot@gmail.com (Throdo Proudfoot)</managingEditor>
+    <webMaster>throdo.proudfoot@gmail.com (Throdo Proudfoot)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 03 May 2026 00:00:00 +0200</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/fr/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      <item>
+        <title>Conseils De Jeu</title>
+        <link>http://localhost:1313/fr/categories/conseils-de-jeu/</link>
+        <pubDate>Sun, 03 May 2026 00:00:00 +0200</pubDate>
+        <author>throdo.proudfoot@gmail.com (Throdo Proudfoot)</author>
+        
+        <guid>http://localhost:1313/fr/categories/conseils-de-jeu/</guid>
+        <description></description>
+        
+        <dc:creator>Throdo Proudfoot</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+    
+      <item>
+        <title>L&#39;Anneau Unique</title>
+        <link>http://localhost:1313/fr/categories/lanneau-unique/</link>
+        <pubDate>Sun, 03 May 2026 00:00:00 +0200</pubDate>
+        <author>throdo.proudfoot@gmail.com (Throdo Proudfoot)</author>
+        
+        <guid>http://localhost:1313/fr/categories/lanneau-unique/</guid>
+        <description></description>
+        
+        <dc:creator>Throdo Proudfoot</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+    
+      <item>
+        <title>Règles</title>
+        <link>http://localhost:1313/fr/categories/r%C3%A8gles/</link>
+        <pubDate>Sun, 16 Jan 2022 11:42:13 +0100</pubDate>
+        <author>throdo.proudfoot@gmail.com (Throdo Proudfoot)</author>
+        
+        <guid>http://localhost:1313/fr/categories/r%C3%A8gles/</guid>
+        <description></description>
+        
+        <dc:creator>Throdo Proudfoot</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+    
+      <item>
+        <title>TheOneRingV2</title>
+        <link>http://localhost:1313/fr/categories/theoneringv2/</link>
+        <pubDate>Sun, 16 Jan 2022 11:42:13 +0100</pubDate>
+        <author>throdo.proudfoot@gmail.com (Throdo Proudfoot)</author>
+        
+        <guid>http://localhost:1313/fr/categories/theoneringv2/</guid>
+        <description></description>
+        
+        <dc:creator>Throdo Proudfoot</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+    
+      <item>
+        <title>Scénario</title>
+        <link>http://localhost:1313/fr/categories/sc%C3%A9nario/</link>
+        <pubDate>Fri, 14 Jan 2022 11:42:13 +0100</pubDate>
+        <author>throdo.proudfoot@gmail.com (Throdo Proudfoot)</author>
+        
+        <guid>http://localhost:1313/fr/categories/sc%C3%A9nario/</guid>
+        <description></description>
+        
+        <dc:creator>Throdo Proudfoot</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+    
+  </channel>
+</rss>
