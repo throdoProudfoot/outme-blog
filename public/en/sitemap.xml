@@ -24,26 +24,26 @@
     <lastmod>2026-05-03T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/"
+                hreflang="en-us"
+                href="http://localhost:1313/en/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/"
+                hreflang="fr"
+                href="http://localhost:1313/fr/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/categories/</loc>
     <lastmod>2026-05-03T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/categories/"
+                hreflang="en-us"
+                href="http://localhost:1313/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/categories/"
+                hreflang="fr"
+                href="http://localhost:1313/fr/categories/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/categories/game-mastering/</loc>
@@ -59,52 +59,52 @@
     <lastmod>2026-05-03T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/tags/"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/tags/"
+                hreflang="fr"
+                href="http://localhost:1313/fr/tags/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/tags/the-one-ring/</loc>
     <lastmod>2026-05-03T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/tags/the-one-ring/"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/the-one-ring/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/tags/the-one-ring/"
+                hreflang="fr"
+                href="http://localhost:1313/fr/tags/the-one-ring/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/categories/theoneringv2/</loc>
     <lastmod>2026-05-03T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/categories/theoneringv2/"
+                hreflang="en-us"
+                href="http://localhost:1313/en/categories/theoneringv2/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/categories/theoneringv2/"
+                hreflang="fr"
+                href="http://localhost:1313/fr/categories/theoneringv2/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/tags/tolkien/</loc>
     <lastmod>2026-05-03T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/tags/tolkien/"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/tolkien/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/tags/tolkien/"
+                hreflang="fr"
+                href="http://localhost:1313/fr/tags/tolkien/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/categories/activeeffect/</loc>
@@ -159,37 +159,37 @@
     <lastmod>2021-12-26T08:47:11+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/posts/"
+                hreflang="en-us"
+                href="http://localhost:1313/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/posts/"
+                hreflang="fr"
+                href="http://localhost:1313/fr/posts/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/series/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/series/"
+                hreflang="en-us"
+                href="http://localhost:1313/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/series/"
+                hreflang="fr"
+                href="http://localhost:1313/fr/series/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/tutorials/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/tutorials/"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tutorials/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/tutorials/"
+                hreflang="fr"
+                href="http://localhost:1313/fr/tutorials/"
                 />
   </url>
 </urlset>
